@@ -1,4 +1,14 @@
 # blockchain-feed-index
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 ## Installation
 Install node 6.10.0 (not tested on higher versions but should work)
 
